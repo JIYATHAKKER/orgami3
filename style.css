@@ -1,0 +1,48 @@
+.header{
+    border:solid;
+    color: yellow;
+    background-color:palevioletred;
+    justify-content: center;
+}
+
+h1{ 
+    color:indigo;
+    justify-content: center;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+
+    color:#000000;
+    justify-content: center;
+    
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:stretch;
+    background-color: aqua;
+    
+}
+
+.item img{
+    border:solid;
+    background-color: darkcyan;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display: flex;
+    background-color: salmon;
+    justify-content:center;
+}
+
+p{
+    text-align: start;
+}
+
